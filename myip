@@ -27,7 +27,7 @@ sed -i 's/asname :/AS Name		:/g' ipinfo.txt
 sed -i 's/query :/Alamat ip	:/g' ipinfo.txt
 echo " " >> ipinfo.txt
 echo "===============================" >> ipinfo.txt
-echo "=========   Zxvluks   ==========" >> ipinfo.txt
+echo "=========   Zxvluks   =========" >> ipinfo.txt
 echo "===============================" >> ipinfo.txt
 cat ipinfo.txt
 rm ipinfo.txt
